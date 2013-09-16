@@ -1,0 +1,6 @@
+"AccountID"   //AccountID
+"Money"       //Money
+"warehouse"   //Warehouse
+"Items"       //Items
+"GameServerInfo"
+"ItemCount"
