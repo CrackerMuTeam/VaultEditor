@@ -15,8 +15,8 @@ AccountSave,CharacterSave,tabela:string;
 memb_info,memb___id,vip,creditos,moedas,options, //memb_info
 
 Character,inventory,shopitem,nome,magiclists:string; //character
-gameserverinfo:string='gameserverinfo';itemcount:string='itemcount';
-warehouses:string='warehouse';Money:string='Money';AccountID:string='AccountID';Items:string='Items'; //warehouse
+gameserverinfo,itemcount:string;
+warehouses,Money,AccountID,Items:string; //warehouse
 //lang
 wemode1,wemode2,wemode3,wemode4,wemode5,wemode6,
 anymode,
@@ -61,7 +61,7 @@ Equips,NoEquips,PS,Info:string; //invsepar
 
 translate,otherfiles:string; // Credits
 
-configtype,programname,information,deletetext:string;
+configtype,programname:string;
 
 implementation
 

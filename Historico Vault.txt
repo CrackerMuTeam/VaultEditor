@@ -1,0 +1,22 @@
+1.0-(data indefinida)
+  criação do programa 
+1.0a-(data indefinida)
+  adição do botão para copiar query 
+1.0b-(data indefinida)
+  adição de suporte pare items ancients de vs MXs (ate entao so funcionava com MGs)
+1.0c-(18/08/2006)
+  remoção do bug criado na vs 1.0a de nao poder adicionar item do meio do bau para baixo
+  corrigido o auto serial 
+1.0d-(21/11/2006)
+  remoção de diversos bugs 
+  adição de suporte a items unique2(season2) e ancient para mods da 99.65
+1.1-(23/12/2006)
+  Adição da nova entrada
+  Adição do config form
+  Adição do sistema de linguagems
+  Remoção de 2 novos bugs de auto serial gerados na 1.0d 
+  Remoção de bugs ao selecionar posição no vault
+  Uso do SQLnames.txt agora é opcional
+  Pode se usar todos os editores CMT com a nova entrada na mesma pasta
+  Adição de um sistema avançado contra retiro dos créditos
+  Adição de Ancient +5 Stamina e +10 Stamina, até então era so de +10

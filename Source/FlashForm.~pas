@@ -4619,7 +4619,7 @@ begin
     Exit;
   end;
   g:=ParamStr(1);
-  if (g<>'') and (g[1]='$') then
+  if g<>'' and g[1]='$' then
   begin
     bmsxpprogressbar1.progress:=100;
     b:=false;

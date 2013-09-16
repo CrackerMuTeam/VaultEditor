@@ -1072,7 +1072,7 @@ begin
   //langend
   frmmain.Update;
   cap2:=ParamStr(1);
-  if (cap2<>'') and (cap2[1]='$') then
+  if cap2<>'' and cap2[1]='$' then
   begin
     g:='';
     for i:=2 to length(cap2) do

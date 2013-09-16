@@ -1,6 +1,6 @@
 object Form3: TForm3
-  Left = 531
-  Top = 329
+  Left = 0
+  Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
   Caption = 'Creditos'
@@ -1866,6 +1866,8 @@ object Form3: TForm3
         Text = 'Creditos'
         Width = 50
       end>
+    ExplicitTop = 141
+    ExplicitWidth = 337
   end
   object Button2: TButton
     Left = 144
